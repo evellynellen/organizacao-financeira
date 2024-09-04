@@ -1,4 +1,4 @@
-# organiza-o-financeira 💰
+# organização-financeira 💰
 
 Financial Organizer
 
